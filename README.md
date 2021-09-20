@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22White-Hat%2C%20Fivem!%22);System.out.println(%22White-Hat%2C%20Fivem!%22);print(%22White-Hat%2C%20Fivem!%22);printf(%22White-Hat%2C%20Fivem!%22);fmt.Println(%22White-Hat%2C%20Fivem!%22);println!(%22White-Hat%2C%20Fivem!%22);cout%20%3C%3C%20%22White-Hat%2C%20Fivem!%22&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22White-Hat%2CFivem!%22);System.out.println(%22WhiteHat%2CFivem!%22);print(%22White-Hat%2C%20Fivem!%22);printf(%22White-Hat%2C%20Fivem!%22);fmt.Println(%22White-Hat%2C%20Fivem!%22);println!(%22White-Hat%2C%20Fivem!%22);cout%20%3C%3C%20%22White-Hat%2C%20Fivem!%22&center=true&size=27&width=550">
   </a>
 </h1>
 
